@@ -1,5 +1,3 @@
-so my knowledge in english 
-are so small 
-well 
-can you speak about your day
-- well the are a shit and your 
+Brazzilian programmer
+this is my first repository
+so have patience with me i'm a begginer
