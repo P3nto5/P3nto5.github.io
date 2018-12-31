@@ -3,7 +3,13 @@ int main(){
 	int num;
 	printf("escreva um numero");
 	scanf("%d",&num);
-	printf("o teste do numero e %d \n",num);
+	if("num%2==0"){
+	printf("numero par");
+	}
+	else{
+	printf("numero impar");
+	}
+
 	return 0;
 }
 
