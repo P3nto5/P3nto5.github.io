@@ -4,10 +4,10 @@ int main(){
 	printf("escreva um numero");
 	scanf("%d",&num);
 	if("num%2==0"){
-	printf("numero par");
+	printf("\n numero par");
 	}
 	else{
-	printf("numero impar");
+	printf("\n numero impar");
 	}
 
 	return 0;
