@@ -1,3 +1,47 @@
-footer{
-    margin-top: 10px;
+
+.tableExample {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color:transparent;
+    border-top: 2px solid black;
+    border-bottom: 4px solid green;
+  }
+.tableExample th {
+
+  border-bottom: 4px solid green;
+  padding: 0.75rem;
+  background-color: darkgray;
+  border-left:   5px solid rebeccapurple;
+  border-right:   2px solid red; 
+  margin-bottom: 50px;
 }
+.tableExample td{
+    padding: 0.75rem;
+    border-bottom: 2px solid blueviolet;
+}
+.infoDesgra{ 
+  background-color: #d1ecf1;
+  border-color: #bee5eb;
+}
+.infoDesgra hr {
+    border-top-color: #abdde5;
+  }
+
+  .infoCell{ 
+    background-color: #d84b4b;
+    border-color: #bee5eb;
+  }
+  .infoCell hr {
+      border-top-color: #e42020;
+    } 
+
+    .footer {
+      margin-top: 10px;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #bee5eb;
+      color: white;
+      text-align: center;
+    }
+    
